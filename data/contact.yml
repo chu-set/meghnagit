@@ -1,6 +1,6 @@
 enable : true
-heading : Get In
-headingSpan : Touch
+heading : Kontaktirajte
+headingSpan : Nas
 title : Contact Details
 content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
 enable_maps : false
@@ -8,14 +8,14 @@ mapLatitude : 51.5223477
 mapLongitude: -0.1622023
 contactDetails :
   - icon : tf-map-pin
-    info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+    info : "Gavrila Principa 11, Novi Sad, Srbija"
     
   - icon : tf-ion-ios-telephone-outline
-    info : "Phone: +880-31-000-000"
+    info : "Tel: +381 (21) 47-90-200"
     
   - icon : tf-ion-iphone
-    info : "Fax: +880-31-000-000"
+    info : "GSM: +381 (65) 47-90-200"
     
   - icon : tf-ion-ios-email-outline
-    info : "Email: hello@meghna.com"
+    info : "Email: info@rapidlaser.com"
     
