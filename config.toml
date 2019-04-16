@@ -76,7 +76,7 @@ custom_css = ["css/custom.css"]
     title = "Great Design & Incredible Features"
     content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
     btnURL = "#"
-    btnText = "Start a project with us"
+    btnText = "Započnite projekat sa nama"
 
     # counter
     [params.counter]
