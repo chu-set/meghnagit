@@ -1,6 +1,6 @@
 baseURL = "/"
-languageCode = "en-us"
-DefaultContentLanguage = "en"
+languageCode = "sr-sp"
+DefaultContentLanguage = "sr"
 title = "Meghna"
 theme = "meghna-hugo"
 summaryLength = 10
@@ -27,20 +27,20 @@ summaryLength = 10
     URL = "portfolio"
     weight = 4
 
-    [[menu.nav]]
-    name = "Team"
-    URL = "our-team"
-    weight = 5
+#    [[menu.nav]]
+#    name = "Team"
+#    URL = "our-team"
+#    weight = 5
 
     [[menu.nav]]
     name = "Pricing"
     URL = "pricing"
     weight = 6
 
-    [[menu.nav]]
-    name = "Blog"
-    URL = "blog"
-    weight = 7
+#    [[menu.nav]]
+#    name = "Blog"
+#    URL = "blog"
+#    weight = 7
 
     [[menu.nav]]
     name = "Contact"
@@ -72,7 +72,7 @@ custom_css = ["css/custom.css"]
 
     # call to action
     [params.cta]
-    enable = true
+    enable = false
     title = "Great Design & Incredible Features"
     content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
     btnURL = "#"
@@ -80,7 +80,7 @@ custom_css = ["css/custom.css"]
 
     # counter
     [params.counter]
-    enable = true
+    enable = false
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
         title = "Happy Clients"
