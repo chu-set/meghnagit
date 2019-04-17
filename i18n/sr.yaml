@@ -1,0 +1,50 @@
+- id: comments
+  translation: Komentari
+- id: permalinkComment
+  translation: Permalink ka ovom komentaru
+- id: replyTo
+  translation: Odgovori
+- id: replyToThread
+  translation: Odgovori na diskusiju
+- id: noComments
+  translation: Još uvek nema komentara. Vaš komentar će biti prvi.
+- id: emailUseGravatarNotifications
+  translation: Vaša email adresa je korišćena za <a href="https://gravatar.com" target="_blank" rel="noopener">Gravatar</a> slika i obaveštenja samo za nove komentare.
+- id: emailUseGravatar
+  translation: Vaša email adresa je korišćena za <a href="https://gravatar.com" target="_blank" rel="noopener">Gravatar</a> samo slika.
+- id: tellSomething
+  translation: Recite nešto
+- id: thanksForComment
+  translation: Hvala
+- id: commentSent
+  translation: Vaš komentar je poslat i biće objavljen nakon odobravanja
+- id: nickname
+  translation: Nadimak
+- id: comment
+  translation: Komentar
+- id: commentPlaceholder
+  translation: Slobodno koristite Markdown.
+- id: commentNotify
+  translation: Obavesti me o novim komentarima na ovau objavu
+- id: addComment
+  translation: Dodaj komentar
+- id: readMore
+  translation: Pročitaj više
+- id: viewAllPost
+  translation: Pogledaj sve objave
+- id: share
+  translation: Podeli
+- id: aboutAuthor
+  translation: O autoru
+- id: contact
+  translation: Kontakt
+- id: authorsPosts
+  translation: Autorove objave
+- id: authorsOfPosts
+  translation: Autor objava
+- id: authorOfPostsOnBlog
+  translation: Autor objava na blogu
+- id: authorsOfPostsOnBlog
+  translation: Autori objava na blogu
+- id: blogs
+  translation: Blogovi
