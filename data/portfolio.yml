@@ -1,6 +1,6 @@
 enable : true
-heading : Our
-headingSpan : Works
+heading : Galerija
+headingSpan : Radova
 filterList :
   - filterType : photography
     filterTitle : Photography

@@ -1,6 +1,6 @@
 enable : true
-heading : Our
-headingSpan : Services
+heading : Naše
+headingSpan : Usluge
 serviceItem :
   - icon : tf-globe
     title : WordPress Theme

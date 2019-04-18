@@ -13,37 +13,37 @@ summaryLength = 10
 # Menu
 [menu]
     [[menu.nav]]
-    name = "About Us"
+    name = "O nama"
     URL = "about"
     weight = 2
 
     [[menu.nav]]
-    name = "Service"
+    name = "Usluge"
     URL = "services"
     weight = 3
 
     [[menu.nav]]
-    name = "Portfolio"
+    name = "Galerija"
     URL = "portfolio"
     weight = 4
 
-#    [[menu.nav]]
-#    name = "Team"
-#    URL = "our-team"
-#    weight = 5
+    #[[menu.nav]]
+    #name = "Team"
+    #URL = "our-team"
+    #weight = 5
 
     [[menu.nav]]
-    name = "Pricing"
+    name = "Materijali"
     URL = "pricing"
     weight = 6
 
-#    [[menu.nav]]
-#    name = "Blog"
-#    URL = "blog"
-#    weight = 7
+    #[[menu.nav]]
+    #name = "Blog"
+    #URL = "blog"
+    #weight = 7
 
     [[menu.nav]]
-    name = "Contact"
+    name = "Kontakt"
     URL = "contact-us"
     weight = 8
 
@@ -106,6 +106,8 @@ custom_css = ["css/custom.css"]
     [params.footer]
         copyright = "Themefisher Team"
         copyrightURL = "http://www.themefisher.com"
+        copyleft = "Hugo"
+        copyleftURL = "https://gohugo.io/"
 
         # social Icons
         [[params.footer.socialIcon]]
