@@ -62,12 +62,12 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/hero-area.jpg"
-    icon = "tf-ion-play"
+    bgImage = "images/slider/Hero-image.jpg"
+    #icon = "tf-ion-play"
     heading = "Iskusite Novu Realnost"
     content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
     btn = true
-    btnText="Explore Us"
+    btnText="Istražite"
     btnURL="#services"
 
     # call to action
@@ -112,9 +112,9 @@ custom_css = ["css/custom.css"]
         icon = "tf-ion-social-facebook"
         url = "#"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-twitter"
-        url = "#"
+       # [[params.footer.socialIcon]]
+       # icon = "tf-ion-social-twitter"
+       # url = "#"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-google-outline"
@@ -128,10 +128,10 @@ custom_css = ["css/custom.css"]
         icon = "tf-ion-social-linkedin"
         url = "#"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-dribbble-outline"
-        url = "#"
+       # [[params.footer.socialIcon]]
+       # icon = "tf-ion-social-dribbble-outline"
+       # url = "#"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-pinterest-outline"
-        url = "#"
+       # [[params.footer.socialIcon]]
+       # icon = "tf-ion-social-pinterest-outline"
+       # url = "#"
