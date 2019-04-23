@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "sr-sp"
 DefaultContentLanguage = "sr"
-title = "Meghna"
+title = "Rapid"
 theme = "meghna-hugo"
 summaryLength = 10
 
@@ -12,30 +12,30 @@ summaryLength = 10
 
 # Menu
 [menu]
-    [[menu.nav]]
-    name = "O nama"
-    URL = "about"
-    weight = 2
+    #[[menu.nav]]
+    #name = "O nama"
+    #URL = "about"
+    #weight = 2
 
-    [[menu.nav]]
-    name = "Usluge"
-    URL = "services"
-    weight = 3
+    #[[menu.nav]]
+    #name = "Usluge"
+    #URL = "services"
+    #weight = 3
 
-    [[menu.nav]]
-    name = "Galerija"
-    URL = "portfolio"
-    weight = 4
+    #[[menu.nav]]
+    #name = "Galerija"
+    #URL = "portfolio"
+    #weight = 4
 
     #[[menu.nav]]
     #name = "Team"
     #URL = "our-team"
     #weight = 5
 
-    [[menu.nav]]
-    name = "Materijali"
-    URL = "pricing"
-    weight = 6
+    #[[menu.nav]]
+    #name = "Materijali"
+    #URL = "pricing"
+    #weight = 6
 
     #[[menu.nav]]
     #name = "Blog"
@@ -50,7 +50,7 @@ summaryLength = 10
 # Site params
 [params]
 home= "Home"
-logo = "images/logo.png"
+logo = "images/Logo_R.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
 description = "Responsive Multipurpose Parallax HTML5 Template"
@@ -64,9 +64,9 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/Hero-image.jpg"
     #icon = "tf-ion-play"
-    heading = "Iskusite Novu Realnost"
-    content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
-    btn = true
+    heading = "Waterjet Sečenje"
+    content= "Uslužno sečenje vodenim mlazom svih vrsta pločastih materijala. Možemo iseći bilo šta, bez obzira da li imate uzorak, olovkom skiciran crtež ili samo ideju onoga što želite da dobijete."
+    btn = false
     btnText="Istražite"
     btnURL="#services"
 
@@ -104,7 +104,7 @@ custom_css = ["css/custom.css"]
 
     # footer
     [params.footer]
-        copyright = "Themefisher Team"
+        copyright = "Themefisher Themes"
         copyrightURL = "http://www.themefisher.com"
         copyleft = "Hugo"
         copyleftURL = "https://gohugo.io/"
@@ -112,23 +112,23 @@ custom_css = ["css/custom.css"]
         # social Icons
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"
-        url = "#"
+        url = "https://www.facebook.com/rapid.waterjet"
 
        # [[params.footer.socialIcon]]
        # icon = "tf-ion-social-twitter"
        # url = "#"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-google-outline"
-        url = "#"
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-google-outline"
+        #url = "#"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-youtube"
-        url = "#"
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-youtube"
+        #url = "#"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-linkedin"
-        url = "#"
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-linkedin"
+        #url = "#"
 
        # [[params.footer.socialIcon]]
        # icon = "tf-ion-social-dribbble-outline"
