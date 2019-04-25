@@ -19,9 +19,10 @@
 						<img src="{{ .Site.Params.logo | absURL }}" alt="Rapid D.o.o" />
 					</a>
 					<br>
-					<p>Made with <a href="{{ .Site.Params.footer.copyleftURL | absURL }}"> {{ with .Site.Params.footer.copyleft }} {{ . }} {{ end }} </a> & <a href="{{ .Site.Params.footer.copyrightURL | absURL }}"> {{ with .Site.Params.footer.copyright }} {{ . }} {{ end }} </a>. Rapid D.o.o &copy; <script>
+					<p>Rapid D.o.o &copy; <script>
 							document.write(new Date().getFullYear())
-						</script>. Sva Prava Zadržana.</p>
+            </script>. Sva Prava Zadržana <br> Made with <a href="{{ .Site.Params.footer.copyleftURL | absURL }}"> {{ with .Site.Params.footer.copyleft }} {{ . }} {{ end }} </a> & <a href="{{ .Site.Params.footer.copyrightURL | absURL }}"> {{ with .Site.Params.footer.copyright }} {{ . }} {{ end }} </a>
+						</p>
 				</div>
 			</div>
 		</div>
