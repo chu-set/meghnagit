@@ -114,6 +114,10 @@ custom_css = ["css/custom.css"]
         icon = "tf-ion-social-facebook"
         url = "https://www.facebook.com/rapid.waterjet"
 
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-instagram"
+        url = "https://www.instagram.com/rapid_waterjet"
+
        # [[params.footer.socialIcon]]
        # icon = "tf-ion-social-twitter"
        # url = "#"
