@@ -1,55 +1,55 @@
-enable : false
+enable : true
 heading : Materijali
 headingSpan : Koje Sečemo
 pricingTable :
-  - title : Free
-    price : $99
-    time : month
-    btnURL : #
-    btnText : Signup
+  - title : Metali
+    # price : $99
+    # time : month
+    # btnURL : #
+    # btnText : Signup
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
+      - planDetails : Čelik
+      - planDetails : Prohrom
+      - planDetails : Aluminijum
+      - planDetails : Titanijum
+      - planDetails : Mesing
+      - planDetails : Bronza
       
-  - title : Silver
-    price : $149
-    time : month
-    btnURL : #
-    btnText : Signup
+  - title : Nemetali
+    # price : $149
+    # time : month
+    # btnURL : #
+    # btnText : Signup
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
+      - planDetails : Keramika
+      - planDetails : Plastika
+      - planDetails : Guma
+      - planDetails : Staklo
+      - planDetails : Sunđer
+      - planDetails : Drvo
       
-  - title : Gold
-    price : $199
-    time : month
-    btnURL : #
-    btnText : Signup
+  - title : Kompozitni
+    # price : $199
+    # time : month
+    # btnURL : #
+    # btnText : Signup
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
+      - planDetails : Karbon Fiber
+      - planDetails : Alubond
+      - planDetails : Grafit
+      - planDetails : Beton
+      - planDetails : Fiberglas
+      - planDetails : Šperploča
       
-  - title : Platinum
-    price : $299
-    time : month
-    btnURL : #
-    btnText : Signup
+  - title : Ostalo
+    # price : $299
+    # time : month
+    # btnURL : #
+    # btnText : Signup
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
+      - planDetails : Styrodur
+      - planDetails : Forex
+      - planDetails : Siporex
+      - planDetails : Kamen
+      - planDetails : Lesonit
+      - planDetails : Kryptonit

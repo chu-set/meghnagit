@@ -1,13 +1,13 @@
-enable : false
+enable : true
 image : images/about/about-business-man.jpg
-title : We’re A Digital Design Agency.
-description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-aboutItem : 
+title : Zamislite šta sve može da se iseče!
+description : Ono što Vi zamislite, mi pretvaramo u opipljive predmete. Od inicijalne ideje pa sve do proizvodnje učestvujete sa nama u procesu. Na taj način osiguravamo da je to što mi nudimo tačno ono što Vi želite.
+description2 : Ukoliko Vam je potreban savet, ideja ili pomoć, kako bi realizovali svoj projekat na najbolji mogući način, možete se osloniti na naše dugogodišnje iskustvo i spremnost da ga nesebično podelimo sa Vama. To je filozofija kojom se vodimo skoro 30 godina i zahvaljujući tome danas imamo reputaciju kojom se ponosimo.
+aboutItem :
   - icon : tf-circle-compass
-    title : SEO Optimized
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-    
+    title : Konsultacije
+    content : U slučaju da imate nedoumice, rado ćemo Vas posavetovati i dati konstruktivan predlog.
+
   - icon : tf-hotairballoon
-    title : Easy Customization
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    title : Ideje
+    content : Pomoći ćemo Vam da dođete do ideje i zajedno sa Vama osmisliti najbolje rešenje.

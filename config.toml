@@ -12,10 +12,10 @@ summaryLength = 10
 
 # Menu
 [menu]
-    #[[menu.nav]]
-    #name = "O nama"
-    #URL = "about"
-    #weight = 2
+    [[menu.nav]]
+    name = "Prednosti"
+    URL = "about"
+    weight = 2
 
     #[[menu.nav]]
     #name = "Usluge"
@@ -32,10 +32,10 @@ summaryLength = 10
     #URL = "our-team"
     #weight = 5
 
-    #[[menu.nav]]
-    #name = "Materijali"
-    #URL = "pricing"
-    #weight = 6
+    [[menu.nav]]
+    name = "Materijali"
+    URL = "pricing"
+    weight = 6
 
     #[[menu.nav]]
     #name = "Blog"
