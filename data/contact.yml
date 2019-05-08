@@ -4,8 +4,8 @@ headingSpan : Nas
 title : Rapid D.o.o.
 content : Budite slobodni da nas kontaktirate, bilo da Vam treba savet ili pomoć oko nekog projekta. Poruka ili poziv, stojimo Vam na rapolaganju. Otvoreni smo za nove ideje ili eventualne sugestije.
 enable_maps : true
-mapLatitude : 45.250524
-mapLongitude: 19.8049796
+mapLatitude : 45.250560
+mapLongitude: 19.807138
 contactDetails :
   - icon : tf-map-pin
     info : "Gavrila Principa 11, Novi Sad, Srbija"
