@@ -17,10 +17,10 @@ summaryLength = 10
     URL = "about"
     weight = 2
 
-    #[[menu.nav]]
-    #name = "Usluge"
-    #URL = "services"
-    #weight = 3
+    [[menu.nav]]
+    name = "Usluge"
+    URL = "services"
+    weight = 3
 
     #[[menu.nav]]
     #name = "Galerija"

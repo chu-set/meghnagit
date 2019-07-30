@@ -1,27 +1,27 @@
-enable : false
+enable : true
 heading : Naše
 headingSpan : Usluge
 serviceItem :
-  - icon : tf-globe
-    title : WordPress Theme
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - icon : tf-ion-waterdrop
+    title : Waterjet Sečenje
+    content : Uslužno CNC sečenje svih pločastih materijala debljine do 20cm. Usluga transporta gotovih delova i preuzimanja materijala od klijenta.
     
   - icon : tf-ion-laptop
-    title : Responsive Design
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : Priprema za Sečenje
+    content : Uslužna priprema koja podrazumeva crtanje u vektorskom programu, na osnovu koga se CNC mašina navodi prilikom sečenja.
     
-  - icon : tf-genius
-    title : Media &amp; Advertisement
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - icon : tf-ion-settings
+    title : Potrošni Materijal
+    content : Prodaja abraziva garnet mesh 80 i malznica za sečenje. Mlaznice su u odgovarajućoj dimenziji za abraziv granulacije 80.
     
-  - icon : tf-dial
-    title : Graphic Design
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    
-  - icon : tf-target3
-    title : Apps Development
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    
-  - icon : tf-lifesaver
-    title : Networking
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    #  - icon : tf-dial
+    #    title : Prodaja Peska
+    #    content : Abrazivni pesak za sečenje na waterjet mašini. Najčešće korišćeni garnet mesh granulacije 80.
+    #    
+    #  - icon : tf-target3
+    #    title : Apps Development
+    #    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    #    
+    #  - icon : tf-lifesaver
+    #    title : Transport
+    #    content : Uslužni transport i isporuka isečenih delova kao i usluga preuzimanja kada klijent poseduje svoj materijal.
