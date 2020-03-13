@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "sr-sp"
+languageCode = "sr-Latn-CS"
 DefaultContentLanguage = "sr"
 title = "Rapid"
 theme = "meghna-hugo"
